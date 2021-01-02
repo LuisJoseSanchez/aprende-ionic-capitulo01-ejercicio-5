@@ -4,6 +4,8 @@
     <img src="aprendeionicconejercicios200.png">
 </a>
 
+## Proyecto de tipo `sidemenu`
+
 Para crear un proyecto nuevo del tipo `sidemenu`, tecleamos lo siguiente:
 
 ```console
@@ -17,6 +19,15 @@ Disponemos, de entrada, de un icono situado en la esquina superior izquierda. Al
 <br>
 
 <img src="sidemenu02.png">
+
+## Proyecto de tipo `tabs`
+
+Para crear un proyecto nuevo del tipo `tabs`, tecleamos lo siguiente:
+
+```console
+ionic start exercise05b tabs --type=angular
+```
+
 
 <hr>
 
