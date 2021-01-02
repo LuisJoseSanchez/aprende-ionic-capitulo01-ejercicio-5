@@ -28,6 +28,13 @@ Para crear un proyecto nuevo del tipo `tabs`, tecleamos lo siguiente:
 ionic start exercise05b tabs --type=angular
 ```
 
+En este caso, disponemos de tres iconos en la parte inferior de la pantalla que nos llevan a las correspondientes páginas.
+
+<img src="tabs01.png">
+
+<br>
+
+<img src="tabs02.png">
 
 <hr>
 
